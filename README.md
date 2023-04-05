@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Raj
-- 👀 I’m interested in WEB DEVELOPMENT
-- ⭐ HTML & CSS Expert
-- 🌱 I’m currently learning Java-Script and Bootstrap
-- I'm Looking for Front-End opportunities which are Full-Time to improve my skills  and to get exposure to corporate world and also avaliable for Free-lancing
+- 👋 Hi, I’m Raj.
+- 👀 I’m interested in Web Development.
+- ⭐ HTML & CSS Expert.
+- 🌱 I’m currently learning Java-Script and Bootstrap.
+- 🤞 I'm looking for Full-Time Front-End opportunities to improve my skills and gain exposure to the corporate world, but I'm also available as a Freelancer.
 - 📫 How to reach me that is on Linkedin: https://www.linkedin.com/in/raj-patel-a851b3155 
 
 
